@@ -7,4 +7,5 @@ import lombok.Data;
 @Table(name="product")
 
 public class Product {
+    
 }
